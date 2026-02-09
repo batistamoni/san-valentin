@@ -9,8 +9,7 @@ Una pequeña aplicación web interactiva creada con HTML, CSS y JavaScript para 
 - **Final Sorpresa:** Pantalla de celebración con GIF incluido.
 
 ## 🚀 Demo
-¡Puedes ver el proyecto funcionando aquí! 👇
-[https://batistamoni.github.io/san-valentin/]
+¡Puedes ver el proyecto funcionando aquí! 👉​ https://batistamoni.github.io/san-valentin/
 
 ## 🛠️ Tecnologías utilizadas
 - **HTML5:** Estructura semántica.
